@@ -1,6 +1,9 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "Barbanas",
+    "wireframe"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
